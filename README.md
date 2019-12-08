@@ -3,10 +3,11 @@
 
 #### Dependencies
 
-1. numpy
-1. pandas
-1. matplotlib
-1. seaborn
+1. pip3 install jupyter
+1. pip3 install numpy
+1. pip3 install pandas
+1. pip3 install matplotlib
+1. pip3 install seaborn
 
 #### Run
 
